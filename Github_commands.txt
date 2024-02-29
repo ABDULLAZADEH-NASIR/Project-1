@@ -1,0 +1,8 @@
+git init-yaratdigimiz yeni proje faylini git versiyasina getirir
+git add .-etdiyimiz butun elave ve ya deyisikleri hamsini commitlemek ucun yadda saxlayir
+git commit -m "x"-etdiyimiz elave ve ya deyisiklikler barede aciqlama verir
+git status-git add olunmayan ve ya olunan fayl ve ya foulderi gosterir
+git push-lokalda olan foulderi ve ya etdiyimiz yenilikleri githubda repostorye atir
+git pull-githubda olan reporstory deyisikliyini lokaldaki fouldere elave edir
+git clone-github da olan reporstoryni lokala kopyalayir
+

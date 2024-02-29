@@ -1,0 +1,11 @@
+pwd-İşləyən qovlugu gosterir
+ls-qovluqdakı fayllar haqqında məlumatı göstərir
+cd-fayl ve ya qovlugu seçir
+mikdr-yeni qovlug yaradir
+touch-yeni fayl yaradir
+cd ..-hazirki yerden geri cixis edir
+rmdir-qovlugu silir
+rm-fayli silir
+cat-faylin mezmununu goterir
+nano-faylin mezmununda deyisiklik edir
+clear-komandalar ekranini təmizləyir
